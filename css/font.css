@@ -1,0 +1,35 @@
+@font-face {  
+ font-family: 'fontnameRegular';  
+ src: url('fontname.eot');  
+ src: local('fontname Regular'),  
+        local('fontname'),  
+        url('fontname.woff') format('woff'),  
+        url('fontname.ttf') format('truetype'),  
+        url('fontname.svg#fontname') format('svg');  
+}    
+
+@font-face {  
+  font-family: 'pingFangSC-Medium';  
+  src: url('PingFangMedium.ttf');  
+  font-weight: normal;  
+  font-style: normal;  
+}  
+@font-face{  
+  font-family: 'pingFangSC-Light';  
+  src: url('PingFang Light.ttf');  
+  font-weight: normal;  
+  font-style: normal;  
+}  
+@font-face{  
+  font-family: 'pingFangSC-Regular';  
+  src: url('PingFangRegular.ttf');  
+  font-weight: normal;  
+  font-style: normal;  
+}  
+
+@font-face{  
+  font-family: 'Lucida-Grande';  
+  src: url('LucidaGrande.ttf');  
+  font-weight: normal;  
+  font-style: normal;  
+}  
